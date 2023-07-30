@@ -1,1 +1,2 @@
 New copy
+conflict on master branch
