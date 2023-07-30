@@ -3,5 +3,4 @@
 ## Purpose 
 ## Deployment
 ## How to Contribute
-Contribute
 ###Copyright 
