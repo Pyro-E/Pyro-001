@@ -2,7 +2,8 @@
 Hello
 ## Introduction
 Rebase
-## Purpose 
+## Purpose
+Stashing
 ## Deployment
 ## How to Contribute
 Contribute
